@@ -7,3 +7,5 @@ Check out a project example or visit the [code-snippets](https://github.com/Emil
   - [Animated Hydrograph for a Storm Event](https://emilydeardorff.github.io/explore-hydrology-p5js/hydro-timeseries-animation/)
   - [Terrain and Flowlines for San Diego State University - Map Application](https://emilydeardorff.github.io/explore-hydrology-p5js/sdsu-flowlines-webmap/)
 
+
+*To look at the code behind these examples, head over to [explore-hydrology-p5js](https://github.com/EmilyDeardorff/explore-hydrology-p5js).*
